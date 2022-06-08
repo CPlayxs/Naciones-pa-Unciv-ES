@@ -62,25 +62,24 @@
 	  "cities": ["Capital","city","cities","city"]
   },
   {
-    "name": "Civ3",
-	  "leaderName": "Leader Name",
+    "name": "Carclecia",
+	  "leaderName": "Juan Manuel De Carclecia",
 	  "adjective": ["Civilian"],
-	  "cityStateType": "Type",
-	  "outerColor": [3,2,1],
-	  "innerColor": [1,2,3],
+	  "outerColor": [189, 23, 23],
+	  "innerColor": [0,0,0],
 
-	  "startBias": ["terrains"],
-	  "preferredVictoryType": "Victory type",
-	  "favoredReligion": "religio",
+	  "startBias": ["Snow"],
+	  "preferredVictoryType": "Cientific",
+	  "favoredReligion": "Christianity",
 
   	"startIntroPart1": "intro",
   	"startIntroPart2": "close",
  
-	  "introduction": "Speech?",
-	  "declaringWar": "Frase",
+	  "introduction": "Buenas, soy Juan Manuel, ¿Que se te ofrece?",
+	  "declaringWar": "Con que quieres guerra eh? Pues venga aver! 1 pa 1 sin camiseta, por lo que veo no quieres hablar",
   	"attacked": "Frase",
-  	"afterPeace": "Frase",
-  	"defeated": "Speech",
+  	"afterPeace": "Oh entonces decidiste hablar, o fue porque viste que no me podías ganar",
+  	"defeated": "Está bien, te subestimé, ojalá ahora estés feliz",
 
   	"neutralHello": "Greetings",
   	"hateHello": "frase",
